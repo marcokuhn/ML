@@ -18,3 +18,10 @@
 - jukebox, a neural net that generates music 
   -  https://openai.com/blog/jukebox/
   
+## Artists
+- Holly Herndon – https://www.artnews.com/art-in-america/interviews/holly-herndon-emily-mcdermott-spawn-ai-1202674301/
+  - https://hollyherndon.ffm.to/proto
+- Mouse on Mars – AAI
+  - https://mouseonmarstj.bandcamp.com/album/aai
+
+     
