@@ -10,10 +10,11 @@
 - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE) - M4L.RhythmVAE
   - https://github.com/naotokui/RhythmVAE_M4L
 
-## General Libraries
+## General Libraries / API`S
 - Magenta - An open source research project exploring the role of machine learning as a tool in the creative process.
   -   https://magenta.tensorflow.org
 - librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems 
   -  https://librosa.org/doc/latest/index.html
-- 
+- jukebox, a neural net that generates music 
+  -  https://openai.com/blog/jukebox/
   
