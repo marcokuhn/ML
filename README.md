@@ -12,8 +12,8 @@
 - https://www.youtube.com/watch?v=o09BSf9zP-0&t=982s
 
 ### VOICEOVER UBERDUCK.AI
-	- https://github.com/uberduck-ai/uberduck-ml-dev
-	- https://app.uberduck.ai/editor#mode=tts-basic&voice=jayz
+- https://github.com/uberduck-ai/uberduck-ml-dev
+- https://app.uberduck.ai/editor#mode=tts-basic&voice=jayz
 
 ## Rhythm
 - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE) - M4L.RhythmVAE
