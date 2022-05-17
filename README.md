@@ -6,6 +6,15 @@
 - https://github.com/deezer/spleeter
 - Spleeter for Max – https://github.com/diracdeltas/spleeter4max#spleeter-for-max
 
+## Audio Synthesis
+### RAVE and nn~ 
+- https://forum.ircam.fr/projects/detail/acids-projects/
+- https://www.youtube.com/watch?v=o09BSf9zP-0&t=982s
+
+### VOICEOVER UBERDUCK.AI
+	- https://github.com/uberduck-ai/uberduck-ml-dev
+	- https://app.uberduck.ai/editor#mode=tts-basic&voice=jayz
+
 ## Rhythm
 - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE) - M4L.RhythmVAE
   - https://github.com/naotokui/RhythmVAE_M4L
@@ -17,6 +26,9 @@
   -  https://librosa.org/doc/latest/index.html
 - jukebox, a neural net that generates music 
   -  https://openai.com/blog/jukebox/
+- ACIDS – Artificial Creative Intelligence and Data Science 
+  - https://github.com/acids-ircam
+  - https://forum.ircam.fr/projects/detail/acids-projects/
   
 ## Artists
 - Holly Herndon – https://www.artnews.com/art-in-america/interviews/holly-herndon-emily-mcdermott-spawn-ai-1202674301/
