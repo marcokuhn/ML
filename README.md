@@ -5,12 +5,12 @@
 - https://crossminds.ai/
 
 ## DATASETS
-- NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
-
+**- NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
 
 ## MODELS
-### Diffusion MODELS
-- https://github.com/YatingMusic/ddsp-singing-vocoders/
+### Diffusion MODELS 
+- GITHUB OVERVIEW https://github.com/YatingMusic/ddsp-singing-vocoders/
+
 
 ## MIXING
 ### ROEX
@@ -18,7 +18,6 @@
 - ROEX & ABLETON LIVE – https://www.roexaudio.com/post/exporting-tracks-or-stems-from-ableton-into-roex-automix
 
 ## Source Seperation – Creating Stems 
-
 ### Spleeter 
 - https://github.com/deezer/spleeter
 - Spleeter for Max – https://github.com/diracdeltas/spleeter4max#spleeter-for-max
