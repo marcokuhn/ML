@@ -51,6 +51,10 @@
   - https://hollyherndon.ffm.to/proto
 - Mouse on Mars – AAI
   - https://mouseonmarstj.bandcamp.com/album/aai
+
+## TALKS
+- Neural Audio Synthesis and Restoration with Generative Adversarial Networks-Stefan Lattner-&inCSL
+-- https://www.youtube.com/watch?v=IET33sxcaRY
   
 
      
