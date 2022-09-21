@@ -3,11 +3,22 @@
 ## Communities
 - https://huggingface.co/
 - https://crossminds.ai/
+- DagsHub - https://dagshub.com/
+DagsHub is a platform for data scientists and machine learning engineers to version their data, models, experiments, and code. It allows you and your team to easily share, review, and reuse your work, providing a GitHub experience for machine learning.
 
 ## DATASETS
-- NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
+- NSynth – https://magenta.tensorflow.org/datasets/nsynth
+https://docs.activeloop.ai/datasets/nsynth-dataset
+
 - AudioSet – A large-scale dataset ofmanually annotated audio events from YouTube
 https://research.google.com/audioset/index.html
+
+- EmoSynth: The Emotional Synthetic Audio Dataset
+https://zenodo.org/record/3727593#.YV6DrGJBzIU
+
+- GENERAL ML DATASETS https://paperswithcode.com/datasets
+
+- open-source audio datasets – https://github.com/DagsHub/audio-datasets
 
 
 ## MODELS
