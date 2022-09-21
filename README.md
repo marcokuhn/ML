@@ -5,7 +5,7 @@
 - https://crossminds.ai/
 
 ## DATASETS
-**- NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
+- NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
 
 ## MODELS
 ### Diffusion MODELS 
