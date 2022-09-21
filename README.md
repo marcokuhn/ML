@@ -56,6 +56,8 @@
 ## TALKS
 - Neural Audio Synthesis and Restoration with Generative Adversarial Networks-Stefan Lattner-&inCSL
 https://www.youtube.com/watch?v=IET33sxcaRY
+- Interactive Neural Audio Synthesis
+https://crossminds.ai/video/interactive-neural-audio-synthesis-60774cd8825a3436b95eecdb/
 
 ## COURSES
 - The Sound of AI by Valerio Velardo – https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ
