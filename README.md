@@ -6,6 +6,9 @@
 
 ## DATASETS
 - NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
+- AudioSet – A large-scale dataset ofmanually annotated audio events from YouTube
+https://research.google.com/audioset/index.html
+
 
 ## MODELS
 ### Diffusion MODELS 
