@@ -7,6 +7,10 @@
 - DagsHub - https://dagshub.com/
 DagsHub is a platform for data scientists and machine learning engineers to version their data, models, experiments, and code. It allows you and your team to easily share, review, and reuse your work, providing a GitHub experience for machine learning.
 
+## Tools
+- https://wandb.ai/site
+- 
+
 ## DATASETS
 - NSynth – https://magenta.tensorflow.org/datasets/nsynth
 https://docs.activeloop.ai/datasets/nsynth-dataset
@@ -24,7 +28,10 @@ https://zenodo.org/record/3727593#.YV6DrGJBzIU
 
 ## MODELS
 ### Diffusion MODELS 
-- GITHUB OVERVIEW https://github.com/YatingMusic/ddsp-singing-vocoders/
+- GITHUB REPOSITORY
+This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models
+https://github.com/heejkoo/Awesome-Diffusion-Models
+- 
 
 
 ## MIXING
