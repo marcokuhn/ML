@@ -1,12 +1,13 @@
 # ML – Machine Learning – Resources
 
+## Communities
+- https://huggingface.co/
+- 
+
 ## MIXING
 ### ROEX
 - ROEX WEBPAGE – https://www.roexaudio.com/
 - ROEX & ABLETON LIVE – https://www.roexaudio.com/post/exporting-tracks-or-stems-from-ableton-into-roex-automix
-
-
-
 
 ## Source Seperation – Creating Stems 
 
@@ -54,7 +55,14 @@
 
 ## TALKS
 - Neural Audio Synthesis and Restoration with Generative Adversarial Networks-Stefan Lattner-&inCSL
--- https://www.youtube.com/watch?v=IET33sxcaRY
+https://www.youtube.com/watch?v=IET33sxcaRY
+
+## COURSES
+- The Sound of AI by Valerio Velardo – https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ
+
+## EXAMPLES
+- Stable Diffusion for Music Video by Tristan Behrens – https://www.youtube.com/watch?v=Oc-NbvUaTzA
+
   
 
      
