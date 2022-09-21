@@ -3,6 +3,7 @@
 ## Communities
 - https://huggingface.co/
 - https://crossminds.ai/
+- https://www.fast.ai/
 - DagsHub - https://dagshub.com/
 DagsHub is a platform for data scientists and machine learning engineers to version their data, models, experiments, and code. It allows you and your team to easily share, review, and reuse your work, providing a GitHub experience for machine learning.
 
