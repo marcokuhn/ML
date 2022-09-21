@@ -28,14 +28,19 @@ https://zenodo.org/record/3727593#.YV6DrGJBzIU
 - Youtube 8M https://research.google.com/youtube8m/
 
 
-
-
 ## MODELS
 ### Diffusion MODELS 
 - GITHUB REPOSITORY
 This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models
 https://github.com/heejkoo/Awesome-Diffusion-Models
-- 
+
+- Unconditional audio generation using diffusion models, in PyTorch
+https://github.com/archinetai/audio-diffusion-pytorch
+
+## AUDIO PLUGINS
+- DDSP-VST – https://magenta.tensorflow.org/ddsp-vst
+- RAVE VST - https://forum.ircam.fr/projects/detail/rave-vst/
+ - Download Build - https://github.com/acids-ircam/rave_vst/actions
 
 
 ## MIXING
