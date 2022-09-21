@@ -2,6 +2,7 @@
 
 ## Communities
 - https://huggingface.co/
+- https://crossminds.ai/
 - 
 
 ## MIXING
@@ -46,6 +47,13 @@
 - ACIDS – Artificial Creative Intelligence and Data Science 
   - https://github.com/acids-ircam
   - https://forum.ircam.fr/projects/detail/acids-projects/
+
+## LABS
+- Sony Computer Science Laboratories – https://csl.sony.fr/
+- Artificial Creative Intelligence and Data Science (ACIDS) group is part of the RepMus team at IRCAM laboratory - https://acids.ircam.fr/
+- Centre for Digital Music – Queen Mary University of London - https://c4dm.eecs.qmul.ac.uk/
+- Music Technology Group – Universitat Pompeu Fabra in Barcelona – https://www.upf.edu/web/mtg
+- 
   
 ## Artists
 - Holly Herndon – https://www.artnews.com/art-in-america/interviews/holly-herndon-emily-mcdermott-spawn-ai-1202674301/
