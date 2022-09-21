@@ -1,5 +1,13 @@
 # ML – Machine Learning – Resources
 
+## MIXING
+### ROEX
+- ROEX WEBPAGE – https://www.roexaudio.com/
+- ROEX & ABLETON LIVE – https://www.roexaudio.com/post/exporting-tracks-or-stems-from-ableton-into-roex-automix
+
+
+
+
 ## Source Seperation – Creating Stems 
 
 ### Spleeter 
@@ -7,9 +15,17 @@
 - Spleeter for Max – https://github.com/diracdeltas/spleeter4max#spleeter-for-max
 
 ## Audio Synthesis
-### RAVE and nn~ 
+### RAVE and nn~ – Realtime Neutral Audio Synthesis
 - https://forum.ircam.fr/projects/detail/acids-projects/
 - https://www.youtube.com/watch?v=o09BSf9zP-0&t=982s
+- RAVE with embedded Systems – https://www.youtube.com/watch?v=jAIRf4nGgYI
+
+## DRUMS
+### DrumGAN
+- BLOG ABOUT DrumGAN –https://sites.google.com/view/drumgan/p%C3%A1gina-principal
+- DrumGAN VST Site – https://cslmusicteam.sony.fr/drumgan-vst/
+- DrumGAN IMPLEMENTATION – Steiberg Backbone - https://www.steinberg.net/vst-instruments/backbone/
+
 
 ### VOICEOVER UBERDUCK.AI
 - https://github.com/uberduck-ai/uberduck-ml-dev
@@ -35,5 +51,6 @@
   - https://hollyherndon.ffm.to/proto
 - Mouse on Mars – AAI
   - https://mouseonmarstj.bandcamp.com/album/aai
+  
 
      
