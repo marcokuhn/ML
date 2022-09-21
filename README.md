@@ -25,6 +25,10 @@ https://zenodo.org/record/3727593#.YV6DrGJBzIU
 
 - open-source audio datasets – https://github.com/DagsHub/audio-datasets
 
+- Youtube 8M https://research.google.com/youtube8m/
+
+
+
 
 ## MODELS
 ### Diffusion MODELS 
