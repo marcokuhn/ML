@@ -3,7 +3,14 @@
 ## Communities
 - https://huggingface.co/
 - https://crossminds.ai/
-- 
+
+## DATASETS
+- NSynth – https://docs.activeloop.ai/datasets/nsynth-dataset
+
+
+## MODELS
+### Diffusion MODELS
+- https://github.com/YatingMusic/ddsp-singing-vocoders/
 
 ## MIXING
 ### ROEX
@@ -27,7 +34,13 @@
 - BLOG ABOUT DrumGAN –https://sites.google.com/view/drumgan/p%C3%A1gina-principal
 - DrumGAN VST Site – https://cslmusicteam.sony.fr/drumgan-vst/
 - DrumGAN IMPLEMENTATION – Steiberg Backbone - https://www.steinberg.net/vst-instruments/backbone/
+### CRASH – Diffusion Model
+Raw Audio Score-based Generative Modeling for Controllable High-resolution Drum Sound Synthesis
+- https://crash-diffusion.github.io/crash/
 
+## SYNTHESIS
+DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation
+https://github.com/YatingMusic/ddsp-singing-vocoders/
 
 ### VOICEOVER UBERDUCK.AI
 - https://github.com/uberduck-ai/uberduck-ml-dev
