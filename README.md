@@ -106,8 +106,11 @@ https://github.com/magenta/music-spectrogram-diffusion
 ## Artists
 - Holly Herndon – https://www.artnews.com/art-in-america/interviews/holly-herndon-emily-mcdermott-spawn-ai-1202674301/
   - https://hollyherndon.ffm.to/proto
+  - https://www.hollyherndon.com/
+  
 - Mouse on Mars – AAI
   - https://mouseonmarstj.bandcamp.com/album/aai
+
 
 ## TALKS
 - Neural Audio Synthesis and Restoration with Generative Adversarial Networks-Stefan Lattner-&inCSL
@@ -120,7 +123,7 @@ https://crossminds.ai/video/interactive-neural-audio-synthesis-60774cd8825a3436b
 
 ## EXAMPLES
 - Stable Diffusion for Music Video by Tristan Behrens – https://www.youtube.com/watch?v=Oc-NbvUaTzA
-
+- 
   
 
      
