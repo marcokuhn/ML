@@ -111,6 +111,13 @@ https://github.com/magenta/music-spectrogram-diffusion
 - Mouse on Mars – AAI
   - https://mouseonmarstj.bandcamp.com/album/aai
 
+- Aphex Twin & Dave Griffiths
+  - https://cdm.link/2022/09/free-sample-mashing-with-samplebrain-by-aphex-twin-and-dave-griffiths/?fbclid=IwAR34MQqmvqDLLlsqu4FI1CVqaZPhGYZ2hMvELTNO45em87dCQ1mb4Pi1iNA
+  - Samplebrain
+   - https://thentrythis.org/projects/samplebrain/?fbclid=IwAR1qkejBiWrBDLo64-Rjdp0-GDj4hNsGSuV7IgVBApMK_vE2E4cOvM--xaY
+   - https://gitlab.com/then-try-this/samplebrain
+    
+
 
 ## TALKS
 - Neural Audio Synthesis and Restoration with Generative Adversarial Networks-Stefan Lattner-&inCSL
