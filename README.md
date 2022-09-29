@@ -6,6 +6,7 @@
 - https://www.fast.ai/
 - DagsHub - https://dagshub.com/
 DagsHub is a platform for data scientists and machine learning engineers to version their data, models, experiments, and code. It allows you and your team to easily share, review, and reuse your work, providing a GitHub experience for machine learning.
+- [LAION AI](https://github.com/LAION-AI) - a non-profit organization to liberate machine learning research, models and datasets
 
 ## Tools
 - https://wandb.ai/site
@@ -22,10 +23,9 @@ https://research.google.com/audioset/index.html
 https://zenodo.org/record/3727593#.YV6DrGJBzIU
 
 - GENERAL ML DATASETS https://paperswithcode.com/datasets
-
 - open-source audio datasets – https://github.com/DagsHub/audio-datasets
-
 - Youtube 8M https://research.google.com/youtube8m/
+- Audio Datasets - https://github.com/LAION-AI/audio-dataset
 
 
 ## MODELS
