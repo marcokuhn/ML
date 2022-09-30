@@ -86,6 +86,8 @@ https://github.com/magenta/music-spectrogram-diffusion
   - https://github.com/naotokui/RhythmVAE_M4L
 
 ## General Libraries / API`S
+- A ranked list of awesome machine learning Python libraries 
+ - https://github.com/ml-tooling/best-of-ml-python
 - Magenta - An open source research project exploring the role of machine learning as a tool in the creative process.
   -   https://magenta.tensorflow.org
 - librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems 
