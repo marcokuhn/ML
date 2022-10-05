@@ -40,7 +40,10 @@ https://github.com/archinetai/audio-diffusion-pytorch
 ## AUDIO PLUGINS
 - DDSP-VST – https://magenta.tensorflow.org/ddsp-vst
 - RAVE VST - https://forum.ircam.fr/projects/detail/rave-vst/
- - Download Build - https://github.com/acids-ircam/rave_vst/actions
+- Download Build - https://github.com/acids-ircam/rave_vst/actions
+- Steinberg Backbone - https://www.steinberg.net/vst-instruments/backbone/
+- MACE AI by Tensorpunk - https://tensorpunk.com/
+
 
 
 ## MIXING
