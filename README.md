@@ -27,6 +27,11 @@ https://zenodo.org/record/3727593#.YV6DrGJBzIU
 - Youtube 8M https://research.google.com/youtube8m/
 - Audio Datasets - https://github.com/LAION-AI/audio-dataset
 
+## Audio Feature Extraction
+- MTG Essentia – https://essentia.upf.edu/models.html
+- Audio Commons Extractor – https://github.com/AudioCommons/ac-audio-extractor
+- Librosa - https://librosa.org/doc/latest/index.html
+
 
 ## MODELS
 ### Diffusion MODELS 
