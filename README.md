@@ -39,6 +39,9 @@ https://zenodo.org/record/3727593#.YV6DrGJBzIU
 This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models
 https://github.com/heejkoo/Awesome-Diffusion-Models
 
+- Apply Denoising Diffusion Probabilistic Models using the new Hugging Face diffusers package to synthesize music instead of images – https://github.com/teticio/audio-diffusion
+
+
 - Unconditional audio generation using diffusion models, in PyTorch
 https://github.com/archinetai/audio-diffusion-pytorch
 
