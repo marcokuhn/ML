@@ -96,6 +96,10 @@ https://github.com/magenta/music-spectrogram-diffusion
 - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE) - M4L.RhythmVAE
   - https://github.com/naotokui/RhythmVAE_M4L
 
+## Music Generation
+- MUSIKA – Fast Infinite Waveform Music Generation – https://github.com/marcoppasini/musika
+- MUBERT - create a new form of adaptive music with the help of AI – https://mubert.com/
+
 ## General Libraries / API`S
 - A ranked list of awesome machine learning Python libraries 
  - https://github.com/ml-tooling/best-of-ml-python
