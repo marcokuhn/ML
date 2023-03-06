@@ -63,6 +63,11 @@ https://github.com/archinetai/audio-diffusion-pytorch
 ### Spleeter 
 - https://github.com/deezer/spleeter
 - Spleeter for Max – https://github.com/diracdeltas/spleeter4max#spleeter-for-max
+### Demucs
+- https://github.com/facebookresearch/demucs
+- https://huggingface.co/spaces/akhaliq/demucs
+### DeMIX Pro
+- https://www.audiosourcere.com/products/demix-pro-audio-separation-software
 
 ## Audio Synthesis
 ### RAVE and nn~ – Realtime Neutral Audio Synthesis
