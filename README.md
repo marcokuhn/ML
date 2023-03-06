@@ -34,14 +34,15 @@ https://zenodo.org/record/3727593#.YV6DrGJBzIU
 
 
 ## MODELS
+
+- https://github.com/lucidrains/musiclm-pytorch – Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+- https://github.com/lucidrains/audiolm-pytorch – Implementation of AudioLM, a Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
+
 ### Diffusion MODELS 
 - GITHUB REPOSITORY
 This repository contains a collection of resources and papers on Diffusion Models and Score-matching Models
 https://github.com/heejkoo/Awesome-Diffusion-Models
-
 - Apply Denoising Diffusion Probabilistic Models using the new Hugging Face diffusers package to synthesize music instead of images – https://github.com/teticio/audio-diffusion
-
-
 - Unconditional audio generation using diffusion models, in PyTorch
 https://github.com/archinetai/audio-diffusion-pytorch
 
@@ -102,6 +103,7 @@ https://github.com/magenta/music-spectrogram-diffusion
   - https://github.com/naotokui/RhythmVAE_M4L
 
 ## Music Generation
+- MusicLM: Generating Music From Text – https://google-research.github.io/seanet/musiclm/examples/
 - MUSIKA – Fast Infinite Waveform Music Generation – https://github.com/marcoppasini/musika
 - MUBERT - create a new form of adaptive music with the help of AI – https://mubert.com/
 
