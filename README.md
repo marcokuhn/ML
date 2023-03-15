@@ -1,5 +1,45 @@
 # ML – Machine Learning – Resources
 
+- [ML – Machine Learning – Resources](#ml---machine-learning---resources)
+  * [Communities](#communities)
+  * [Tools](#tools)
+  * [DATASETS](#datasets)
+  * [Audio Feature Extraction](#audio-feature-extraction)
+  * [MODELS](#models)
+    + [Diffusion MODELS](#diffusion-models)
+  * [AUDIO PLUGINS](#audio-plugins)
+  * [MIXING](#mixing)
+    + [ROEX](#roex)
+  * [Source Seperation – Creating Stems](#source-seperation---creating-stems)
+    + [Spleeter](#spleeter)
+    + [Demucs](#demucs)
+    + [DeMIX Pro](#demix-pro)
+  * [Audio Synthesis](#audio-synthesis)
+    + [RAVE and nn~](#rave-and-nn-)
+  * [DRUMS](#drums)
+    + [DrumGAN](#drumgan)
+    + [CRASH – Diffusion Model](#crash---diffusion-model)
+  * [SYNTHESIS](#synthesis)
+    + [VOICEOVER UBERDUCK.AI](#voiceover-uberduckai)
+  * [Rhythm](#rhythm)
+  * [Music Generation](#music-generation)
+  * [Max/Msp](#max-msp)
+    + [ml-lib – A machine learning library for Max and Pure Data](#ml-lib---a-machine-learning-library-for-max-and-pure-data)
+    + [FLUCOMA](#flucoma)
+    + [SP-Tools - Machine Learning tools for drums and percussion](#sp-tools---machine-learning-tools-for-drums-and-percussion)
+    + [MUBU – Max toolbox for multimodal analysis of sound and motion, sound synthesis and interactive machine learning](#mubu---max-toolbox-for-multimodal-analysis-of-sound-and-motion--sound-synthesis-and-interactive-machine-learning)
+    + [Gestural Sound Toolkit in Max/MSP for easy and fast Gesture-to-Sound scenario prototyping](#gestural-sound-toolkit-in-max-msp-for-easy-and-fast-gesture-to-sound-scenario-prototyping)
+    + [RAVE (###rave-and-nn~)](#rave-----rave-and-nn--)
+  * [General Libraries / API`S](#general-libraries---api-s)
+  * [LABS](#labs)
+  * [Artists](#artists)
+  * [TALKS](#talks)
+  * [COURSES](#courses)
+  * [EXAMPLES](#examples)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Communities
 - https://huggingface.co/
 - https://crossminds.ai/
