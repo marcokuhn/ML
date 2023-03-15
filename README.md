@@ -71,8 +71,11 @@ https://github.com/archinetai/audio-diffusion-pytorch
 - https://www.audiosourcere.com/products/demix-pro-audio-separation-software
 
 ## Audio Synthesis
-### RAVE and nn~ – Realtime Neutral Audio Synthesis
+### RAVE and nn~ 
+Realtime Neutral Audio Synthesis
 - https://forum.ircam.fr/projects/detail/acids-projects/
+- https://acids-ircam.github.io/cached_conv/
+- https://caillonantoine.github.io/2021/11/18/rave.html
 - https://www.youtube.com/watch?v=o09BSf9zP-0&t=982s
 - RAVE with embedded Systems – https://www.youtube.com/watch?v=jAIRf4nGgYI
 
@@ -106,6 +109,29 @@ https://github.com/magenta/music-spectrogram-diffusion
 - MusicLM: Generating Music From Text – https://google-research.github.io/seanet/musiclm/examples/
 - MUSIKA – Fast Infinite Waveform Music Generation – https://github.com/marcoppasini/musika
 - MUBERT - create a new form of adaptive music with the help of AI – https://mubert.com/
+
+## Max/Msp
+### ml-lib – A machine learning library for Max and Pure Data
+- https://github.com/irllabs/ml-lib
+- https://www.benjamindaysmith.com/ml-machine-learning-toolkit-in-max
+
+### FLUCOMA 
+– https://www.flucoma.org/
+
+### SP-Tools - Machine Learning tools for drums and percussion
+- https://rodrigoconstanzo.com/2022/07/sp-tools-machine-learning-tools-for-drums-and-percussion-alpha/
+- https://github.com/rconstanzo/sp-tools
+
+### MUBU – Max toolbox for multimodal analysis of sound and motion, sound synthesis and interactive machine learning
+- https://forum.ircam.fr/projects/detail/mubu/
+- https://cycling74.com/articles/content-you-need-mubu
+- https://ircam-ismm.github.io/max-msp/mubu.html#recording-playing-analyzing-and-visualizing-multimodal-data
+
+### Gestural Sound Toolkit in Max/MSP for easy and fast Gesture-to-Sound scenario prototyping
+- https://github.com/bcaramiaux/Gestural-Sound-Toolkit
+
+### RAVE (###rave-and-nn~)
+
 
 ## General Libraries / API`S
 - A ranked list of awesome machine learning Python libraries 
