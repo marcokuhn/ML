@@ -192,7 +192,11 @@ https://github.com/magenta/music-spectrogram-diffusion
 - Centre for Digital Music – Queen Mary University of London - https://c4dm.eecs.qmul.ac.uk/
 - Music Technology Group – Universitat Pompeu Fabra in Barcelona – https://www.upf.edu/web/mtg
 - 
-  
+
+## General Frameworks
+- RTNEURAL – A lightweight neural network inferencing engine written in C++. This library was designed with the intention of being used in real-time systems, specifically real-time audio processing – https://github.com/jatinchowdhury18/RTNeural
+
+
 ## Artists
 - Holly Herndon – https://www.artnews.com/art-in-america/interviews/holly-herndon-emily-mcdermott-spawn-ai-1202674301/
   - https://hollyherndon.ffm.to/proto
