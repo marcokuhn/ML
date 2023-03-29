@@ -136,6 +136,7 @@ https://github.com/YatingMusic/ddsp-singing-vocoders/
 Multi-instrument Music Synthesis with Spectrogram Diffusion
 https://github.com/magenta/music-spectrogram-diffusion
 
+Audioldm – Text to Audio Generation – https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation
 
 ### VOICEOVER UBERDUCK.AI
 - https://github.com/uberduck-ai/uberduck-ml-dev
