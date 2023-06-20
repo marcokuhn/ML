@@ -147,7 +147,9 @@ Audioldm – Text to Audio Generation – https://huggingface.co/spaces/haoheliu
   - https://github.com/naotokui/RhythmVAE_M4L
 
 ## Music Generation
+- MusicGen: a simple and controllable model for music generation – https://github.com/facebookresearch/audiocraft
 - MusicLM: Generating Music From Text – https://google-research.github.io/seanet/musiclm/examples/
+- RIFFUSION: Stable Diffusion for Audio – https://www.riffusion.com/
 - MUSIKA – Fast Infinite Waveform Music Generation – https://github.com/marcoppasini/musika
 - MUBERT - create a new form of adaptive music with the help of AI – https://mubert.com/
 
